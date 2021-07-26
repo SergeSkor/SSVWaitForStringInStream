@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For WaitForStringInStream class
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WaitForStringInStream	KEYWORD1	WaitForStringInStreamConstructor
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setStrToWait	KEYWORD2
+getStrToWait	KEYWORD2
+getStrToWait	KEYWORD2
+CheckNextChar	KEYWORD2
+getCaseSensitive	KEYWORD2
+setCaseSensitive	KEYWORD2
+getLastCheck	KEYWORD2
